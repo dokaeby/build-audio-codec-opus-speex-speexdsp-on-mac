@@ -8,4 +8,4 @@ Each sheel script download source and build fat libxxx.a
 * speex
 * speexdsp
 
-please Enjoy this shell!! 
+please Enjoy this shell script!! 
