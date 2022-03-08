@@ -2,7 +2,7 @@
 
 build audio codec shell script for iOS & Mac OSX on M1 Mac   
 
-Each sheel script download source and build fat libxxx.a
+Each shell script download source and build fat libxxx.a
 
 * opus
 * speex
