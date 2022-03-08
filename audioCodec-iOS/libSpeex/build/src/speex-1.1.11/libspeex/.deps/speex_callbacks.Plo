@@ -1,0 +1,20 @@
+speex_callbacks.lo: speex_callbacks.c ../config.h \
+  ../include/speex/speex_callbacks.h ../include/speex/speex.h \
+  ../include/speex/speex_bits.h ../include/speex/speex_types.h \
+  ../include/speex/speex_config_types.h misc.h arch.h
+
+../config.h:
+
+../include/speex/speex_callbacks.h:
+
+../include/speex/speex.h:
+
+../include/speex/speex_bits.h:
+
+../include/speex/speex_types.h:
+
+../include/speex/speex_config_types.h:
+
+misc.h:
+
+arch.h:

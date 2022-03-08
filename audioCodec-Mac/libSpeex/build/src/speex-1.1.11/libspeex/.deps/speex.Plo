@@ -1,0 +1,40 @@
+speex.lo: speex.c ../config.h modes.h ../include/speex/speex.h \
+  ../include/speex/speex_bits.h ../include/speex/speex_types.h \
+  ../include/speex/speex_config_types.h misc.h arch.h \
+  /Volumes/WORK/Apps/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.2.sdk/usr/include/math.h \
+  /Volumes/WORK/Apps/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.2.sdk/usr/include/sys/cdefs.h \
+  /Volumes/WORK/Apps/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.2.sdk/usr/include/sys/_symbol_aliasing.h \
+  /Volumes/WORK/Apps/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.2.sdk/usr/include/sys/_posix_availability.h \
+  /Volumes/WORK/Apps/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.2.sdk/usr/include/Availability.h \
+  /Volumes/WORK/Apps/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.2.sdk/usr/include/AvailabilityVersions.h \
+  /Volumes/WORK/Apps/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.2.sdk/usr/include/AvailabilityInternal.h
+
+../config.h:
+
+modes.h:
+
+../include/speex/speex.h:
+
+../include/speex/speex_bits.h:
+
+../include/speex/speex_types.h:
+
+../include/speex/speex_config_types.h:
+
+misc.h:
+
+arch.h:
+
+/Volumes/WORK/Apps/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.2.sdk/usr/include/math.h:
+
+/Volumes/WORK/Apps/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.2.sdk/usr/include/sys/cdefs.h:
+
+/Volumes/WORK/Apps/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.2.sdk/usr/include/sys/_symbol_aliasing.h:
+
+/Volumes/WORK/Apps/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.2.sdk/usr/include/sys/_posix_availability.h:
+
+/Volumes/WORK/Apps/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.2.sdk/usr/include/Availability.h:
+
+/Volumes/WORK/Apps/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.2.sdk/usr/include/AvailabilityVersions.h:
+
+/Volumes/WORK/Apps/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.2.sdk/usr/include/AvailabilityInternal.h:
