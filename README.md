@@ -1,7 +1,7 @@
 # build-audio-codec-opus-speex-speexdsp-on-mac
 I make change  github.com/marcelosarquis/build-libopus-m1.sh .
 
-Very tahnks macrcelosarquis.
+Very thanks macrcelosarquis's script.
 
 build audio codec shell script for iOS & Mac OSX on M1 Mac   
 
